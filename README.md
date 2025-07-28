@@ -34,7 +34,7 @@ https://cloud.mail.ru/public/ZqaT/2EqD6avbx
 ### 3. Deepseek LLM
 - **Название**: `deepseek-chat`
 - **Описание**: Модель для генерации текста, доступная через API Deepseek. Используется для создания рекомендаций по улучшению разговора на основе транскрипции.
-- **Ссылка**: ([https://api.deepseek.com](https://platform.deepseek.com/api_keys))
+- **Ссылка**: ([Deepseek](https://platform.deepseek.com/api_keys))
 - **Использование**: Генерация рекомендаций по улучшению коммуникации.
 
 ## Требования
