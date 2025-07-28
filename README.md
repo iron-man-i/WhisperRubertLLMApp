@@ -1,7 +1,7 @@
 # WhisperRubertLLMApp
 SpeechToText (STT) OpenAI Whisper --> Rubert (Positive-Neutral-Negative) --> LLM (Deepseek) recommendations to improve. Application with Streamlit. 
 
-## (Распознавание текста из аудио, анализ тональности текста, рекомендации по улучшению диалога от ИИ. Работает через Streamlit.)
+## Распознавание текста из аудио, анализ тональности текста, рекомендации по улучшению диалога от ИИ. Работает через Streamlit.
 
 Видео с демонстрацией работы приложения находится по этой ссылке:
 
@@ -10,9 +10,6 @@ https://cloud.mail.ru/public/a3ao/FrbQYvqEu
 Docker файл находится по этой ссылке:
 
 https://cloud.mail.ru/public/ZqaT/2EqD6avbx
-
-
-# Распознавание речи из аудио, анализ тональности и рекомендации от ИИ с помощью Streamlit
 
 ## Описание
 Это веб-приложение на основе Streamlit, которое выполняет следующие функции:
